@@ -23,6 +23,7 @@ Url:
 
 #### Create conda env:
 conda create --name <env_name> --file requirements.txt
+
 conda activate <env_name>
 
 #### Run the python file

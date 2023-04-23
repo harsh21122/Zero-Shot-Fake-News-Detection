@@ -12,7 +12,9 @@ We acheive this in a zero shot manner by using question answer generation models
 
 WELFake dataset which is used to train our models can be accessed from here: https://www.kaggle.com/datasets/saurabhshahane/fake-news-classification
 
-Dataset which is used to test our models can be accessed from here: https://www.kaggle.com/datasets/jruvika/fake-news-detection
+Dataset which is used to test our models can be accessed from here: <br>
+- https://www.kaggle.com/datasets/jruvika/fake-news-detection
+- https://www.kaggle.com/datasets/faisalmabood/fake-and-true-news-dataset?select=True.csv </br>
 
 # Instructions for running
 
